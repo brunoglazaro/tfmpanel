@@ -23,6 +23,16 @@ div.transbox p
   font-weight:bold;
   color:#000000;
   }
+div.box
+ {
+  width:600px;
+  height:65px;
+  margin:30px 50px;
+  background-color:#ffffff;
+  border-radius: 15px;
+  border:1px solid black;
+  opacity:0.9;
+ }
 .top {
 	position:relative;
 	width:50%;
