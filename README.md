@@ -9,3 +9,7 @@
 
 <b> Prints: </b>
 <img src="http://i.imgur.com/bZLfIrA.png">
+-
+<img src="http://i.imgur.com/0iAJsHx.png">
+-
+<img src="http://i.imgur.com/Ae22gCi.png">
