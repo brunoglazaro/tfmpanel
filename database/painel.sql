@@ -45,7 +45,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`nome`, `sobrenome`, `pais`, `estado`, `cidade`, `email`, `senha`, `id`) VALUES
-('dev', 'shark', 'portugal', 'algarve', 'portimao', 'admin', 'bruno800', 1);
+('dev', 'shark', 'portugal', 'algarve', 'portimao', 'admin', 'lol11110', 1);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
